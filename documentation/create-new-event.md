@@ -33,8 +33,8 @@ _Illustration 3: the New Event editor screen_
 
 10. when you create a new event, you have to make sure that you enter all the fields. 
 There is fields that if you left empty, the event doesn’t come up in the front page. Those fileds are 
-**Event date and time** 
-**Event Area** and 
-**Event Price**
+* **Event date and time** ,
+* **Event Area** and 
+* **Event Price**
 
 [<< Back to main documentation page.](README.MD)
