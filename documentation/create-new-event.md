@@ -32,6 +32,9 @@ _Illustration 3: the New Event editor screen_
 9. If an event type is not on the list you can Add a new Event type by clicking the **Add new Event Type** button
 
 10. when you create a new event, you have to make sure that you enter all the fields. 
-There is some fields that if you left empty, the event doesn’t come up in the front page. for example **Event date and time** , **Event Price** and so on.
+There is fields that if you left empty, the event doesn’t come up in the front page. Those fileds are 
+**Event date and time** 
+**Event Area** and 
+**Event Price**
 
 [<< Back to main documentation page.](README.MD)
